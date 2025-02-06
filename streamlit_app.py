@@ -26,9 +26,9 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 
-st.header("🔭 Magic retouch")
+st.header("🔭 Magic retouch alpha test")
 st.write("")
-"A combination of automated color correction tasks and photo upscaling"
+# "A combination of automated color correction tasks and photo upscaling"
 st.write("")
 
 def centered_image_comparison(img1, img2, label1, label2, width=1400):
